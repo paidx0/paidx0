@@ -16,7 +16,7 @@
 </a>
 
 <div>
-<img align="center" src="./man.png" width="200" height="200" />
+<img align="left" src="./man.png" width="200" height="200" />
 </div>
 
 <table align="center">
