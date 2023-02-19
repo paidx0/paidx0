@@ -1,6 +1,7 @@
 # Yoo，I'm Paidx0  👋 😝 🤤
 
-<h1 align="center"> <a href="https://sunguoqi.com/"><img src="https://readme-typing-svg.herokuapp.com/?lines=ffmt.Println(%22Hello%20World%22);Here%20is%20Paidx0&center=true&size=27"></a></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0610EE&background=0C06FF00&center=true&vCenter=true&width=450&height=45&lines=fmt.Println(%22Hello+World%22);Here+is+Paidx0"/></h1>
+
 
 <img src="./img.jpeg" width="500" height="313"/><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" height="340px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paidx0&exclude_repo=github-readme-stats,anuraghazra.github.io" />
@@ -15,7 +16,7 @@
 </a>
 
 
-<img src="./man.png" width="250" height="250" />
+<img src="./man.png" align="center" width="250" height="250" />
 
 
 <table align="center">
