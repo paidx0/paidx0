@@ -16,7 +16,7 @@
 </a>
 
 <div>
-<img align="left" src="./man.png" width="200" height="200" />
+<img align="center" src="./man.png" width="200" height="200" />
 </div>
 
 <table align="center">
@@ -26,8 +26,8 @@
 </table>
 
 
-   <!--START_SECTION:waka-->
-   <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!-- ![Metrics](https://metrics.lecoq.io/paidx0?template=classic&base.activity=0&base.community=0&leetcode=1&base=header%2C%20activity%2C%20community&base.indepth=false&base.hireable=false&base.skip=false&leetcode=false&leetcode.user=paidx0&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FShanghai)
