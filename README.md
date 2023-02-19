@@ -15,9 +15,9 @@
   <img align="right" width="400px" src="https://streak-stats.demolab.com?user=Paidx0&theme=radical&hide_border=true&border_radius=60&locale=zh_Hans&date_format=M%20j%5B%2C%20Y%5D&disable_animations=true" />
 </a>
 
-
-<img src="./man.png" width="200" height="200" />
-
+<div>
+<img align="center" src="./man.png" width="200" height="200" />
+</div>
 
 <table align="center">
   <tr>
