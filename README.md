@@ -4,7 +4,7 @@
 
 
 <img src="./img.jpeg" width="500" height="313"/><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" height="340px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paidx0&exclude_repo=github-readme-stats,anuraghazra.github.io&hide=html,css" />
+  <img align="right" height="340px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paidx0&exclude_repo=github-readme-stats,anuraghazra.github.io&hide=html,css,freemarker" />
 </a>
 
 
