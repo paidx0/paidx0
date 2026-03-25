@@ -19,10 +19,5 @@
 
 <div align="center"><img src="./man.png" width="200" height="200" /></div>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=paidx0&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
-
-
+<!-- ![Metrics](https://metrics.lecoq.io/paidx0?template=classic&base.activity=0&base.community=0&leetcode=1&base=header%2C%20activity%2C%20community&base.indepth=false&base.hireable=false&base.skip=false&leetcode=false&leetcode.user=paidx0&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FShanghai)
+-->
